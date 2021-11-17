@@ -1,0 +1,2 @@
+com/juantobon20/messagelibrary/BuildConfig.java
+ com.juantobon20.messagelibrary.BuildConfig

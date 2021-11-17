@@ -1,0 +1,4 @@
+com/juantobon20/module/BuildConfig.java
+ com.juantobon20.module.BuildConfig
+com/juantobon20/module/databinding/ActivityMainBinding.java
+ com.juantobon20.module.databinding.ActivityMainBinding
